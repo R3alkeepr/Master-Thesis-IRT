@@ -1,66 +1,40 @@
-# Master-Theses-IRT
+\# Sub-meter rockwall temperature dynamics and their implications for weathering: Insights from infrared thermography (IRT)
 
-A geospatial data science project investigating sub-meter rockwall temperature dynamics through infrared thermography, Python-based time series analysis, and environmental data processing.
-
-
-
-\# Rockwall Temperature Dynamics
-
-
-
-M.Sc. thesis in Environmental Geography
-
+M.Sc. Thesis in Environmental Geography
 University of Bayreuth (2026)
-
-
 
 \## Overview
 
+This repository contains selected materials from my master's thesis investigating sub-meter rockwall temperature dynamics and their implications for thermal weathering processes.
 
+The repository includes materials from two of the three study sites and two of the four measurement campaigns. The study combines infrared thermography (IRT), terrestrial laser scanning (TLS), and Python-based time series analysis to characterise spatial and temporal temperature variability across alpine rockwalls and German low mountain ranges.
 
-This repository contains selected materials for 2 of the 3 study sites (2 of 4 measurements) from my master's thesis investigating sub-meter rockwall temperature dynamics and their implications for thermal weathering processes.
+Due to file size limitations and ongoing analyses, only selected datasets and outputs are provided. The repository contains representative data, analysis scripts, and visualisations that document the methodology and principal findings of the study.
 
+\## Research Objectives
 
-
-The study combines infrared thermography (IRT), terrestrial laser scanning, hand Python-based time series analysis to characterize spatial and temporal temperature variability German low mountain ranges and alpine rockwalls.
-
-
+- Characterise spatial and temporal variability in sub-meter rockwall temperatures.
+- Investigate thermal gradients and temperature dynamics relevant for thermal weathering processes.
+- Develop reproducible workflows for processing and analysing high-resolution thermal datasets.
 
 \## Methods
 
-
-
-\- Infrared Thermography (IRT)
-
-\- Terrestrial Laser Scanning (TLS)
-
-\- Time Series Analysis
-
-
+- Infrared Thermography (IRT)
+- Terrestrial Laser Scanning (TLS)
+- Time Series Analysis
+- Geospatial Data Processing
 
 \## Software
 
-
-
-\- Python
-
-\- QGIS
-
-\- RiSCAN Pro
-
-\- R
-
-
+- Python
+- QGIS
+- RiSCAN Pro
+- IRBIS 3
+- R
 
 \## Repository Contents
 
-
-
-\- Thesis manuscript
-
-\- code
-
-\- (selected) data
-
-\- alignment
-
+- Thesis 
+- Code
+- (Selected) Data
+- Alignment (Data Files)
